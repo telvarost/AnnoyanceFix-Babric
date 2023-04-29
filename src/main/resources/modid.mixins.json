@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.fabricmc.annoyancefix.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BlockFenceMixin",
+    "BlockStairsMixin",
+    "EntityBoatMixin",
+    "ItemAxeMixin",
+    "ItemPickaxeMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
