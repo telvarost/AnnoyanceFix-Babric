@@ -1,4 +1,4 @@
-# Babric Annoyance Fixes Mod Port
+# AnnoyanceFix Babric Mod Port
 
 ## Original Mod
 
