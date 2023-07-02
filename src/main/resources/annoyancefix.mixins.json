@@ -9,7 +9,8 @@
     "EntityBoatMixin",
     "ItemAxeMixin",
     "ItemPickaxeMixin",
-    "PlayerInventoryMixin"
+    "PlayerInventoryMixin",
+    "PlayerInventoryInvoker"
   ],
   "client": [],
   "injectors": {
