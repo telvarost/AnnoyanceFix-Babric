@@ -18,7 +18,8 @@ The aim of this mod is to fix (major) annoyances or backport useful features tha
 - Boats don't break due to high velocity
 - Never fall through boats anymore when getting out
 
-Coming soon: 
+Coming soon:
+
 - Pick block (middle mouse button click) now works for blocks that are in the player's inventory, but not in their hotbar
 - Pick block now also works on: paintings, minecarts (all three types), wooden doors, iron doors, signs, crops, redstone repeaters, redstone wire, beds, piston heads and cake
 

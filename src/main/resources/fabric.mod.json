@@ -4,9 +4,10 @@
   "version": "${version}",
 
   "name": "Babric AnnoyanceFix",
-  "description": "Port of the AnnoyanceFix mod for babric",
+  "description": "Port of the AnnoyanceFix mod for Babric",
   "authors": [
-    "Me!"
+    "Telvarost",
+    "2zqa"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
