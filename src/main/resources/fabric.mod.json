@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "annoyancefix",
-  "version": "1.0",
+  "version": "1.1.0",
 
   "name": "AnnoyanceFix-Babric",
   "description": "Port of the AnnoyanceFix mod for Babric",
