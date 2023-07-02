@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
   "id": "modid",
-  "version": "${version}",
+  "version": "1.0",
 
-  "name": "Babric AnnoyanceFix",
-  "description": "Port of the AnnoyanceFix mod for babric",
+  "name": "AnnoyanceFix-Babric",
+  "description": "Port of the AnnoyanceFix mod for Babric",
   "authors": [
-    "Me!"
+    "Telvarost",
+    "2zqa"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-annoyancefix-mod"
+    "homepage": "https://github.com/telvarost/babric-annoyance-fixes/",
+    "sources": "https://github.com/telvarost/babric-annoyance-fixes/"
   },
 
   "license": "CC0-1.0",
@@ -29,8 +30,5 @@
   "depends": {
     "fabricloader": ">=0.13.3",
     "minecraft": "1.0.0-beta.7.3"
-  },
-  "suggests": {
-    "another-mod": "*"
   }
 }
