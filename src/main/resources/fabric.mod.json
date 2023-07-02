@@ -1,20 +1,21 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
-  "version": "${version}",
+  "id": "annoyancefix",
+  "version": "1.1.0",
 
-  "name": "Babric AnnoyanceFix",
-  "description": "Port of the AnnoyanceFix mod for babric",
+  "name": "AnnoyanceFix-Babric",
+  "description": "Port of the AnnoyanceFix mod for Babric",
   "authors": [
-    "Me!"
+    "Telvarost",
+    "2zqa"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-annoyancefix-mod"
+    "homepage": "https://github.com/telvarost/AnnoyanceFix-Babric/",
+    "sources": "https://github.com/telvarost/AnnoyanceFix-Babric/"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/annoyancefix/icon.png",
 
   "environment": "*",
   "entrypoints": {
@@ -23,14 +24,11 @@
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "annoyancefix.mixins.json"
   ],
 
   "depends": {
     "fabricloader": ">=0.13.3",
     "minecraft": "1.0.0-beta.7.3"
-  },
-  "suggests": {
-    "another-mod": "*"
   }
 }
